@@ -26,4 +26,4 @@ Calling the class:
     5. Performance metrics.
 
 # Sample output
-![GitHub Logo](/Figure5.png)
+![Matplotlib output](/Figure_5.png)
