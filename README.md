@@ -25,5 +25,14 @@ Calling the class:
     4. Underwater plot of drawdown.
     5. Performance metrics.
 
+# Libraries and versions
+    pandas - 1.0.1
+    numpy - 1.18.1
+    yfinance - 0.1.54
+    matplotlib - 3.1.3
+    statsmodels - 0.11.0
+    scipy - 1.4.1
+
+
 # Sample output
 ![Matplotlib output](/Figure_5.png)
