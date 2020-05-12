@@ -12,18 +12,21 @@ Calling the class:
     performancePeriod = The time period in days of the investment period
     riskFreeRate = Annual risk free rate eg. 0.05 for 5%
     threshold = Annual investor return threshod for Omega ratio calculation
-                Value is in percent
+                Value in float. eg: 0.1 for 10%
 
 # Call eg:
     performanceAnalysis('MSFT','^GSPC','1000d',0.0025,0)
 
     # Outputs
         matplotlib plot performance summary
-    1. Cummulative return graph of stock and benchmark
+    1. Cummulative return graph of stock and benchmark.
     2. Daily return plot.
-    3. Histogram of return distribution including kde plot.
-    4. Underwater plot of drawdown.
-    5. Performance metrics.
+    3. Regression against benchmark.
+    4. Omega curve
+    5. Histogram of return distribution including kde plot.
+    6. Monthly return heatmap.
+    7. Underwater plot of drawdown.
+    8. Performance metrics.
 
 # Libraries and versions
     pandas - 1.0.1
