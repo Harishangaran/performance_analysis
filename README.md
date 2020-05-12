@@ -32,7 +32,8 @@ Calling the class:
     matplotlib - 3.1.3
     statsmodels - 0.11.0
     scipy - 1.4.1
+    seaborn - 0.10.0
 
 
 # Sample output
-![Matplotlib output](/Figure_5.png)
+![Matplotlib output](/Figure_7.png)
