@@ -1,4 +1,4 @@
-# performance_analysis
+# Performance_analysis
 The complete stock performance analysis using python
 
 The following script calls stock and benchmark indice price from yahoo finance
